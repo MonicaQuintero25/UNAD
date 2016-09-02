@@ -1,70 +1,79 @@
 HOJA DE VIDA
-M”NICA QUINTERO AGUDELO
-I. INFORMACI”N PERSONAL
-Nombre: MÛnica Quintero Agudelo
-ProfesiÛn: Ingeniera de Sistemas y ComputaciÛn
-Estado Civil: UniÛn Libre
+M√ìNICA QUINTERO AGUDELO
+
+I. INFORMACI√ìN PERSONAL
+Nombre: M√≥nica Quintero Agudelo
+Profesi√≥n: Ingeniera de Sistemas y Computaci√≥n
+Estado Civil: Uni√≥n Libre
 Fecha de Nacimiento: 25 de Febrero de 1987
 Lugar de Nacimiento: Manizales, Caldas
-CÈdula de CiudadanÌa: 1.053.776.386 de Manizales
-Correo ElectrÛnico: monica.quintero25@gmai l .com
-DirecciÛn: Carrera 11 # 13-05 Apto 501
-TelÈfonos: 8785018 - 8902404 Manizales
+C√©dula de Ciudadan√≠a: 1.053.776.386 de Manizales
+Correo Electr√≥nico: monica.quintero25@gmai l .com
+Direcci√≥n: Carrera 11 # 13-05 Apto 501
+Tel√©fonos: 8785018 - 8902404 Manizales
 Celular: 3153497350
+
 II. PERFIL PROFESIONAL
-Ingeniera de Sistemas y ComputaciÛn con Ènfasis en nuevos entornos, con
+Ingeniera de Sistemas y Computaci√≥n con √©nfasis en nuevos entornos, con
 grandes habilidades en manejo de Publicidad Digital y amplio conocimiento en
-el ·rea de Adservers.
-Con conocimientos especÌficos en manejo de Networks, dominio de
+el √°rea de Adservers.
+Con conocimientos espec√≠ficos en manejo de Networks, dominio de
 herramientas tales como Google analytics, Google adwords, Doubleclick,
 Sizmek, Rigth Media, Facebook, BidManager, Omniture.
-M”NICA QUINTERO AGUDELO
-Amplia capacidad de trabajo en equipo, adaptabilidad al cambio y aprendizaje continuo (investigaciÛn), facilidad de aplicaciÛn de nuevas plataformas, persistente y orientado a resultados, responsabilidad y manejo constante de equipos de trabajo.
-III. INFORMACI”N ACAD…MICA
-Estudios Universitarios: IngenierÌa de Sistemas y ComputaciÛn
+Amplia capacidad de trabajo en equipo, adaptabilidad al cambio y aprendizaje continuo (investigaci√≥n), facilidad de aplicaci√≥n de nuevas plataformas, persistente y orientado a resultados, responsabilidad y manejo constante de equipos de trabajo.
+
+III. INFORMACI√ìN ACAD√âMICA
+Estudios Universitarios: Ingenier√≠a de Sistemas y Computaci√≥n
+
 IV. ESTUDIOS COMPLEMENTARIOS
-? Un semestre de Matem·tica en la Universidad Nacional de Colombia sede Manizales, primer semestre del aÒo 2004.
-? CapacitaciÛn SEM (Search Engine Marketing), SEO (Search Engine Optimization) y Display en Ariadna Manizales.
-? CapacitaciÛn DSP DoubleClick Bid Manager. Google Mexico 2013.
-? CapacitaciÛn RighMedia Manizales Ariadna 2013.
-? CertificaciÛn Google Analytics Conceptos b·sicos de la publicidad en Google ID 1260-4279-5752.
-? CertificaciÛn Google Analytics Examen Publicidad en la red de b˙squeda avanzada ID 1260-4279-5752.
-? Curso de InteracciÛn en Ingles 1 Servicio Nacional de Aprendizaje SENA, Junio 2015.
-? Curso de English Dot Works Level 2 ñ Ingles 2 Servicio Nacional de Aprendizaje SENA, Noviembre 2015.
+? Un semestre de Matem√°tica en la Universidad Nacional de Colombia sede Manizales, primer semestre del a√±o 2004.
+? Capacitaci√≥n SEM (Search Engine Marketing), SEO (Search Engine Optimization) y Display en Ariadna Manizales.
+? Capacitaci√≥n DSP DoubleClick Bid Manager. Google Mexico 2013.
+? Capacitaci√≥n RighMedia Manizales Ariadna 2013.
+? Certificaci√≥n Google Analytics Conceptos b√°sicos de la publicidad en Google ID 1260-4279-5752.
+? Certificaci√≥n Google Analytics Examen Publicidad en la red de b√∫squeda avanzada ID 1260-4279-5752.
+? Curso de Interacci√≥n en Ingles 1 Servicio Nacional de Aprendizaje SENA, Junio 2015.
+? Curso de English Dot Works Level 2 ‚Äì Ingles 2 Servicio Nacional de Aprendizaje SENA, Noviembre 2015.
 ? Curso Uso de Excel y Acces para el desarrollo de aplicaciones administrativas empresariales Servicio Nacional de Aprendizaje SENA, Septiembre 2015.
-M”NICA QUINTERO AGUDELO
-V. COMPETENCIAS T…CNICAS
+
+
+V. COMPETENCIAS T√âCNICAS
 Desarrollos Basico en Java, php, javaScript, html, action script, Flash, ajax.
-Manejo b·sico de bases de datos postgrest, mysql, sql server.
+Manejo b√°sico de bases de datos postgrest, mysql, sql server.
 Manejo avanzado de herramientas de publicidad tales como Google analytics, Google adwords, Doubleclick Bid Manager, Right Media, Facebook, Instagram, Twitter, Omniture.
-Manejo de tags de conversiÛn desde su an·lisis, creaciÛn, implementaciÛn, optimizaciÛn e informes de los mismos en diferentes plataformas tales como Omniture, Media Mind, Doubleclick, Google analytics.
+Manejo de tags de conversi√≥n desde su an√°lisis, creaci√≥n, implementaci√≥n, optimizaci√≥n e informes de los mismos en diferentes plataformas tales como Omniture, Media Mind, Doubleclick, Google analytics.
 Manejo avanzado y especifico de plataformas como DoubleClick Campaign Manager y Sizmek.
+
 VI. EXPERIENCIA
-? Desarrollo de un sistema de informaciÛn para pagos de los estudiantes del programa a distancia de la universidad de Caldas TecnologÌa en ElectrÛnica; dicho sistema se realizo en el lenguaje de programaciÛn JAVA y el gestor de bases de datos Postgres.
+? Desarrollo de un sistema de informaci√≥n para pagos de los estudiantes del programa a distancia de la universidad de Caldas Tecnolog√≠a en Electr√≥nica; dicho sistema se realizo en el lenguaje de programaci√≥n JAVA y el gestor de bases de datos Postgres.
 Lugar: Universidad de Caldas Facultad de Ciencias Exactas y Naturales.
-DuraciÛn: Enero a Junio de 2009.
-? Practica empresarial en desarrollo de Motor IsomÈtrico para mundos virtuales en Action Scrip 3.0 en CDI Ariadna Manizales.
-? ImplementaciÛn, an·lisis y optimizaciÛn de campaÒas publicitarias para Anunciantes tales como Palace Resorts, HBO, LAN, UVM, UNITEC, Juan Valdez etc. ComunicaciÛn constante con los clientes y medios.
-Analista del ¡rea de Trafico para Colombia y la RegiÛn.
+Duraci√≥n: Enero a Junio de 2009.
+? Practica empresarial en desarrollo de Motor Isom√©trico para mundos virtuales en Action Scrip 3.0 en CDI Ariadna Manizales.
+? Implementaci√≥n, an√°lisis y optimizaci√≥n de campa√±as publicitarias para Anunciantes tales como Palace Resorts, HBO, LAN, UVM, UNITEC, Juan Valdez etc. Comunicaci√≥n constante con los clientes y medios.
+Analista del √Årea de Trafico para Colombia y la Regi√≥n.
 Lugar: Ariadna S.A.S.
-DuraciÛn: Enero 2010 a 2011
-M”NICA QUINTERO AGUDELO
-? Coordinadora del ·rea de tr·fico para Ariadna en Colombia y la RegiÛn.
+Duraci√≥n: Enero 2010 a 2011
+? Coordinadora del √°rea de tr√°fico para Ariadna en Colombia y la Regi√≥n.
 Lugar: Ariadna LLC.
-DuraciÛn: Marzo 2011 a la fecha.
+Duraci√≥n: Marzo 2011 a la fecha.
+
 VII. REFERENCIAS LABORALES
 ? MARIELA YANETH TREJOS ISAZA
-Administradora de Sistemas Inform·ticos
+Administradora de Sistemas Inform√°ticos
 Celular: 3116303090
-? TATIANA MARCELA GALLEGO CASTA—O
-Administradora de Sistemas Inform·ticos
+? TATIANA MARCELA GALLEGO CASTA√ëO
+Administradora de Sistemas Inform√°ticos
 Celular: 3146441583
+
 VIII. REFERENCIAS PERSONALES
 ? DIANA CAROLINA RAMIREZ LOPEZ
 Enfermera Superior
 Cel. 3148917595
 ? DAVID LEONARDO GUTIERREZ GALLEGO
-Ingeniero en Sistemas y ComputaciÛn.
+Ingeniero en Sistemas y Computaci√≥n.
 Celular: 3218355598
-MÛnica Quintero Agudelo
+
+
+
+M√≥nica Quintero Agudelo
 C. C. 1.053.776.386 de Manizales
